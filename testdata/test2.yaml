@@ -1,0 +1,5 @@
+---
+server:
+  host: "test2host"
+  port: 8080
+  
